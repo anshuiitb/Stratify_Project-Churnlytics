@@ -78,7 +78,8 @@ Participants are expected to:
 ---
 
 ## 📄 Dataset Access  
-Excel file [customer_churn_data.xlsx]
+The dataset is provided in the Excel file: [**customer_churn_data.xlsx**](./customer_churn_data.xlsx)
+
 ---
 
 ## 📝 What We Have Done  
