@@ -78,8 +78,7 @@ Participants are expected to:
 ---
 
 ## 📄 Dataset Access  
-Excel files are available in the **shared drive directory**.  
-
+Excel file [customer_churn_data.xlsx]
 ---
 
 ## 📝 What We Have Done  
